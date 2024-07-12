@@ -1,0 +1,7 @@
+ECSS-E-ST-40C
+
+SDD: Software Design Document
+SRS: Software Requirements Document
+
+For the Interface Control Documents, please check the folder: MO_Services_ICDs
+
